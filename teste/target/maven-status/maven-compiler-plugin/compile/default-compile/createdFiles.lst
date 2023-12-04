@@ -1,0 +1,11 @@
+entidades\DadosVolateis$2.class
+entidades\Sistema.class
+entidades\Funcionario.class
+entidades\Hardware.class
+conexao\Conexao.class
+entidades\DadosVolateis$1.class
+entidades\DadosVolateis.class
+App.class
+SlackConfig\Slack.class
+SlackConfig\EnvioSlack.class
+conexao\ConexaoSql.class
