@@ -13,7 +13,7 @@ import java.util.Base64;
 
 public class Slack {
     private static HttpClient client = HttpClient.newHttpClient();
-    private static String tokenCriptografado = "LrCJNWVSOCExAGcc6HPMeXZWrpA3G2xEURksEoDXqC5SSD6BkHKVslWfydlk8c0f7A3xhPKG3eYeTPpjOunMvA==";
+    private static String tokenCriptografado = "T065YAV8EJE/B068XEMUERF/MPmE3L2LWGqftWRjrnE0F6gb";
     private static final String url;
 
     static {
